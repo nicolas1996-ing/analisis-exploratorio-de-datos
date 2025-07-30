@@ -1,0 +1,101 @@
+Club,Competition,Age,Squad_size,Market_value,Market_value_of_players,MV_Top_18_players,Share_of_MV
+Manchester City,Premier League,27.2,23,1050.0,45.75,988.0,0.9390000000000001
+Paris Saint-Germain,Ligue 1,26.1,35,997.75,28.51,889.0,0.8909999999999999
+Manchester United,Premier League,28.0,28,937.25,33.47,850.0,0.907
+Chelsea FC,Premier League,26.8,27,882.5,32.69,816.0,0.925
+Liverpool FC,Premier League,27.0,27,879.5,32.57,810.5,0.922
+Bayern Munich,Bundesliga,25.9,26,852.9,32.8,819.9,0.961
+Real Madrid,LaLiga,27.2,27,793.5,29.39,708.0,0.892
+Atlético de Madrid,LaLiga,28.1,22,755.2,34.33,730.0,0.9670000000000001
+Tottenham Hotspur,Premier League,25.5,24,697.0,29.04,632.0,0.907
+FC Barcelona,LaLiga,25.3,29,677.0,23.34,620.0,0.9159999999999999
+Juventus FC,Serie A,27.3,25,640.4,25.62,597.0,0.932
+Inter Milan,Serie A,28.8,28,573.3,20.48,548.0,0.956
+Borussia Dortmund,Bundesliga,24.6,34,565.9,16.64,518.0,0.915
+Leicester City,Premier League,26.9,28,550.1,19.65,502.0,0.9129999999999999
+Arsenal FC,Premier League,25.3,26,548.5,21.1,484.0,0.882
+SSC Napoli,Serie A,27.6,25,517.75,20.71,493.0,0.9520000000000001
+RB Leipzig,Bundesliga,24.2,28,505.55,18.06,454.5,0.899
+AC Milan,Serie A,26.2,28,466.9,16.68,424.0,0.9079999999999999
+Everton FC,Premier League,27.8,26,433.75,16.68,401.2,0.925
+Sevilla FC,LaLiga,28.2,26,429.4,16.52,391.0,0.9109999999999999
+Atalanta BC,Serie A,27.1,26,415.35,15.98,384.5,0.9259999999999999
+AS Roma,Serie A,25.1,30,410.35,13.68,375.8,0.9159999999999999
+Aston Villa,Premier League,25.7,24,408.3,17.01,392.8,0.9620000000000001
+Wolverhampton Wanderers,Premier League,26.3,24,391.1,16.3,376.3,0.9620000000000001
+Real Sociedad,LaLiga,26.0,26,377.0,14.5,354.5,0.94
+West Ham United,Premier League,28.8,24,353.25,14.72,341.5,0.9670000000000001
+Bayer 04 Leverkusen,Bundesliga,24.7,27,352.75,13.06,323.0,0.9159999999999999
+AS Monaco,Ligue 1,24.5,28,350.9,12.53,313.0,0.892
+Olympique Lyon,Ligue 1,25.5,29,348.5,12.02,333.1,0.956
+Ajax Amsterdam,Eredivisie,25.6,25,343.2,13.73,322.7,0.94
+SS Lazio,Serie A,27.5,33,326.6,9.9,301.8,0.924
+Borussia Mönchengladbach,Bundesliga,25.4,28,300.0,10.71,288.9,0.963
+Villarreal CF,LaLiga,28.2,24,298.9,12.45,284.0,0.95
+VfL Wolfsburg,Bundesliga,25.2,32,287.83,8.99,260.4,0.905
+SL Benfica,Liga Bwin,27.1,29,285.5,9.84,239.0,0.8370000000000001
+LOSC Lille,Ligue 1,25.4,26,272.0,10.46,262.5,0.965
+FC Porto,Liga Bwin,26.7,26,265.0,10.19,242.0,0.9129999999999999
+Olympique Marseille,Ligue 1,23.4,30,262.75,8.76,252.0,0.9590000000000001
+Leeds United,Premier League,24.9,24,252.7,10.53,247.5,0.9790000000000001
+Valencia CF,LaLiga,25.6,27,251.9,9.33,234.5,0.9309999999999999
+ACF Fiorentina,Serie A,26.9,26,248.8,9.57,232.8,0.9359999999999999
+Brighton & Hove Albion,Premier League,25.8,26,248.1,9.54,226.8,0.914
+Newcastle United,Premier League,28.2,25,241.4,9.66,223.0,0.924
+Southampton FC,Premier League,25.6,27,241.3,8.94,224.0,0.9279999999999999
+Crystal Palace,Premier League,27.5,26,239.45,9.21,223.0,0.9309999999999999
+Eintracht Frankfurt,Bundesliga,25.5,32,231.25,7.23,211.75,0.9159999999999999
+Real Betis Balompié,LaLiga,28.6,28,223.4,7.98,208.2,0.932
+OGC Nice,Ligue 1,24.1,26,218.25,8.39,202.8,0.929
+US Sassuolo,Serie A,27.2,27,216.9,8.03,198.7,0.9159999999999999
+TSG 1899 Hoffenheim,Bundesliga,25.8,32,207.65,6.49,181.3,0.873
+Sporting CP,Liga Bwin,25.9,23,198.2,8.62,189.0,0.9540000000000001
+Norwich City,Premier League,25.2,29,189.55,6.54,174.5,0.9209999999999999
+Athletic Bilbao,LaLiga,26.4,26,188.3,7.24,179.0,0.951
+Stade Rennais FC,Ligue 1,23.6,28,185.15,6.61,181.9,0.982
+Torino FC,Serie A,26.0,30,184.13,6.14,165.0,0.8959999999999999
+Shakhtar Donetsk,Premier Liga,25.7,29,184.0,6.34,166.5,0.905
+Zenit St. Petersburg,Premier Liga,27.0,22,173.7,7.9,171.3,0.986
+VfB Stuttgart,Bundesliga,23.4,33,169.63,5.14,153.0,0.902
+Brentford FC,Premier League,24.5,31,166.45,5.37,154.0,0.925
+Getafe CF,LaLiga,27.1,25,159.45,6.38,153.2,0.961
+PSV Eindhoven,Eredivisie,25.0,27,158.05,5.85,147.5,0.9329999999999999
+Cagliari Calcio,Serie A,26.9,29,153.53,5.29,142.8,0.93
+Red Bull Salzburg,Bundesliga,23.1,28,152.4,5.44,137.6,0.903
+Club Brugge KV,Jupiler Pro League,24.1,31,150.4,4.85,139.0,0.924
+Clube de Regatas do Flamengo,Série A,27.4,31,147.75,4.77,130.0,0.88
+Fulham FC,Championship,27.0,29,147.7,5.09,132.0,0.894
+Burnley FC,Premier League,29.9,24,145.3,6.05,138.5,0.953
+Celta de Vigo,LaLiga,28.0,21,143.8,6.85,140.5,0.977
+Sociedade Esportiva Palmeiras,Série A,27.0,31,143.2,4.62,125.95,0.88
+Bologna FC 1909,Serie A,25.7,28,142.48,5.09,133.3,0.9359999999999999
+Hertha BSC,Bundesliga,26.3,28,137.05,4.89,124.7,0.91
+Watford FC,Premier League,27.9,26,133.0,5.12,119.0,0.895
+Dynamo Kyiv,Premier Liga,25.4,30,133.0,4.43,118.5,0.8909999999999999
+Besiktas JK,Süper Lig,27.7,32,127.05,3.97,115.1,0.9059999999999999
+KRC Genk,Jupiler Pro League,23.3,24,127.0,5.29,117.5,0.925
+Spartak Moscow,Premier Liga,26.1,25,125.5,5.02,121.0,0.9640000000000001
+SC Freiburg,Bundesliga,25.4,26,125.15,4.81,119.4,0.9540000000000001
+UC Sampdoria,Serie A,27.1,27,124.8,4.62,111.4,0.893
+Sheffield United,Championship,28.0,27,124.3,4.6,113.9,0.9159999999999999
+SC Braga,Liga Bwin,25.5,28,119.15,4.26,108.0,0.9059999999999999
+Olympiacos Piraeus,Super League 1,26.1,33,118.45,3.59,105.25,0.889
+Fenerbahce SK,Süper Lig,25.3,32,114.33,3.57,102.5,0.897
+FK Krasnodar,Premier Liga,27.6,24,113.25,4.72,109.1,0.963
+AFC Bournemouth,Championship,25.4,25,113.05,4.52,109.9,0.972
+Levante UD,LaLiga,28.1,28,112.5,4.02,104.1,0.925
+GNK Dinamo Zagreb,1.HNL,26.2,29,109.2,3.77,99.4,0.91
+Hellas Verona,Serie A,26.7,26,108.45,4.17,99.9,0.9209999999999999
+Rangers FC,Premiership,27.5,29,105.0,3.62,98.7,0.94
+Club Atlético River Plate,Liga Profesional,27.7,29,103.93,3.58,96.35,0.927
+Galatasaray A.S.,Süper Lig,26.7,31,102.18,3.3,86.83,0.85
+Udinese Calcio,Serie A,27.7,25,101.45,4.06,95.2,0.938
+Feyenoord Rotterdam,Eredivisie,23.5,28,101.4,3.62,98.9,0.975
+1.FSV Mainz 05,Bundesliga,25.5,25,100.5,4.02,96.3,0.958
+RCD Espanyol Barcelona,LaLiga,27.6,25,100.3,4.01,90.3,0.9
+Genoa CFC,Serie A,27.5,34,99.2,2.92,86.0,0.867
+Clube Atlético Mineiro,Série A,26.9,31,98.45,3.18,84.95,0.863
+FC Augsburg,Bundesliga,26.1,28,97.1,3.47,88.0,0.9059999999999999
+Lokomotiv Moscow,Premier Liga,24.8,29,97.03,3.35,86.5,0.892
+Trabzonspor,Süper Lig,26.7,29,96.3,3.32,89.0,0.924
+CA Osasuna,LaLiga,27.7,27,93.5,3.46,86.6,0.9259999999999999
